@@ -90,8 +90,8 @@ modernc.org/sqlite
 ```
 Tables: [logs] [projects] [+ New Table]              Ctrl+Q: quit  ← Header (no bg)
 id  date                project    hours  description                ← Column headers (gray bg, full width)
-1   2026-03-02 00:00:00 EDNXT-S    3      Recon                      ← Rows (subtle highlight on selected cell)
-2   2026-03-03 00:00:00 EDNXT      3      Analytics Events
+1   2026-03-02 00:00:00 PROJT-A    3      Task1                      ← Rows (subtle highlight on selected cell)
+2   2026-03-03 00:00:00 PROJT-B    3      Another Task Two
 ...
 Tab: switch  ←→↑↓: navigate  Enter: edit  N: new table  c: add...   ← Footer (gray bg, full width)
 ```

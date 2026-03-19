@@ -1,7 +1,7 @@
-# HANDOFF.md - Teapoy TUI Airtable Clone
+# Teapoy: TUI Airtable Alternative
 
 ## What This Is
-A single-file Go TUI (Terminal User Interface) Airtable clone using SQLite for storage. Named "teapoy" (small table in Indian English). Features viewport-based scrolling, formula columns, and a maximized vertical layout.
+A single-file Go TUI (Terminal User Interface) Airtable alternative using SQLite for storage. Named "teapoy" (small table in Indian English). Features viewport-based scrolling, formula columns, and a maximized vertical layout.
 
 ## Quick Start
 ```bash
